@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/watchers/realivywong/python-lottery.svg?style=social)![](https://img.shields.io/github/stars/realivywong/python-lottery.svg?style=social)![](https://img.shields.io/github/forks/realivywong/python-lottery.svg?style=social)
 
-![Lottery](D:\10GitRepository\BlogBackup\assets\Lottery.jpg)
+![Lottery](https://github.com/RealIvyWong/BlogBackup/raw/master/assets/Lottery.jpg)
 
 Lottery是我本人刚开始学Python GUI练手学习的小项目，是使用tkinter模块实现的。主要功能是用来实现自定义进行随机抽奖。
 
@@ -12,7 +12,7 @@ Lottery是我本人刚开始学Python GUI练手学习的小项目，是使用tki
 
 ## 效果展示
 
-![GIF](D:\10GitRepository\BlogBackup\assets\GIF.gif)
+![GIF](https://github.com/RealIvyWong/BlogBackup/raw/master/assets/GIF.gif)
 
 其中，在初始化标签页内还能自定义对奖项与对应人数进行自定义设置。
 
