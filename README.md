@@ -64,3 +64,10 @@ git clone https://github.com/RealIvyWong/Python-Lottery.git
 
 https://www.cnblogs.com/aloe-n/p/7059950.html
 
+
+
+## 请我喝杯咖啡
+
+如果我的代码帮助到了你，欢迎你请我喝杯咖啡~
+
+<img src="https://github.com/RealIvyWong/ImageHosting/raw/master/assets/支付宝收款码.jpg" height="30%" width="30%"> <img src="https://github.com/RealIvyWong/ImageHosting/raw/master/assets/微信收款码.png" height="30%" width="30%">
