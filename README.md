@@ -1,8 +1,8 @@
-# Python-Lottery
+# Python-Lottery ![](https://img.shields.io/github/release-pre/realivywong/python-lottery.svg)
 
-![](https://img.shields.io/github/license/realivywong/python-lottery.svg)![](https://img.shields.io/github/release-pre/realivywong/python-lottery.svg)![](https://img.shields.io/github/downloads/realivywong/python-lottery/total.svg)
+项目链接：https://github.com/RealIvyWong/python-lottery
 
-![](https://img.shields.io/github/watchers/realivywong/python-lottery.svg?style=social)![](https://img.shields.io/github/stars/realivywong/python-lottery.svg?style=social)![](https://img.shields.io/github/forks/realivywong/python-lottery.svg?style=social)
+![](https://img.shields.io/github/stars/realivywong/python-lottery.svg?style=social)![](https://img.shields.io/github/forks/realivywong/python-lottery.svg?style=social)
 
 ![Lottery](assets/Lottery.jpg)
 
